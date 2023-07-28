@@ -15,6 +15,8 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: false
+  boot:
+    message: Hello at the Department service.
 
 eureka:
   instance:
