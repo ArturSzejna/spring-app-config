@@ -16,7 +16,7 @@ spring:
       ddl-auto: update
     show-sql: false
   boot:
-    message: Hello, Employee service.
+    message: Hello, Employee service, update.
 
 eureka:
   instance:
